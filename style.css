@@ -1,0 +1,20 @@
+.text1 {
+color: rgb(158, 158, 192);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: bold;
+}
+.text2{
+color: rgb(7, 231, 183);
+font-size: larger;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-weight: bold;
+}
+
+#mydiv {
+width: 200px; 
+height: 200px;
+background-color: yellowgreen;
+transform: rotateY(180deg);
+
+
+}
