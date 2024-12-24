@@ -1,20 +1,27 @@
 .text1 {
+    font-style: var(Arial);
 color: rgb(158, 158, 192);
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-weight: bold;
 }
 .text2{
 color: rgb(7, 231, 183);
+font-style: oblique;
 font-size: larger;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 font-weight: bold;
 }
 
 #mydiv {
+box-shadow: chartreuse;
+text-shadow: 0cqw;
 width: 200px; 
 height: 200px;
-background-color: yellowgreen;
-transform: rotateY(180deg);
 
+flex-direction: inherit;
+background-color: rgb(124, 124, 151);
+transform: rotateY(180deg);
+color: aliceblue;
+text-align: center;
 
 }
